@@ -1,0 +1,60 @@
+(base) MacBook-Air-4:Downloads hanluhe$ echo
+
+(base) MacBook-Air-4:Downloads hanluhe$ cat text
+cat: text: No such file or directory
+(base) MacBook-Air-4:Downloads hanluhe$ pwd
+/Users/hanluhe/Downloads
+(base) MacBook-Air-4:Downloads hanluhe$ -l
+-bash: -l: command not found
+(base) MacBook-Air-4:Downloads hanluhe$ cd hanlu
+-bash: cd: hanlu: No such file or directory
+(base) MacBook-Air-4:Downloads hanluhe$ cd hanluhe
+-bash: cd: hanluhe: No such file or directory
+(base) MacBook-Air-4:Downloads hanluhe$ pwd 
+/Users/hanluhe/Downloads
+(base) MacBook-Air-4:Downloads hanluhe$ cd Users
+-bash: cd: Users: No such file or directory
+(base) MacBook-Air-4:Downloads hanluhe$ cd
+(base) MacBook-Air-4:~ hanluhe$ cd Desktop
+(base) MacBook-Air-4:Desktop hanluhe$ cat text
+cat: text: No such file or directory
+(base) MacBook-Air-4:Desktop hanluhe$ cat text
+cat: text: No such file or directory
+(base) MacBook-Air-4:Desktop hanluhe$ ls
+CVs					Videos
+Chem exam holygrail			Writing-an-academic-essay.pages
+Screenshot 2022-10-30 at 17.47.29.png	gpa.numbers
+Screenshot 2022-10-30 at 17.48.05.png	text.txt
+Teddybear
+(base) MacBook-Air-4:Desktop hanluhe$ cat text.txt
+Hello
+(base) MacBook-Air-4:Desktop hanluhe$ which
+usage: which [-as] program ...
+(base) MacBook-Air-4:Desktop hanluhe$ which cat
+/bin/cat
+(base) MacBook-Air-4:Desktop hanluhe$ nano
+
+  UW PICO 5.09                       New Buffer                       Modified  
+
+if __name__ == "__main__":
+  print("Hello world!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
