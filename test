@@ -1,4 +1,4 @@
-(base) MacBook-Air-4:Downloads hanluhe$ echo
+(base) MacBook-Air-4:Downloads hanluhe$ echo - nr 2
 
 (base) MacBook-Air-4:Downloads hanluhe$ cat text
 cat: text: No such file or directory
